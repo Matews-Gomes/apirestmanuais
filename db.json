@@ -1,0 +1,129 @@
+{
+    "manuaisCadastros": [
+        {
+            "nome": "Cadastro de Metas",
+            "arquivo": "./assets/Cadastros/cadastrometa.pdf"
+        },
+        
+        {
+            "nome": "Cadastro de Clientes",
+            "arquivo": "./assets/Cadastros/Cadastro_Clientes.pdf"
+        },
+        
+        {
+            "nome": "Cadastro de Fornecedores",
+            "arquivo": "./assets/Cadastros/CADASTRO_FORNECEDORES.pdf"
+        }
+    ],
+
+    "manuaisFinanceiro":[
+        {
+            "nome": "Emissão de Boletos",
+            "arquivo": "./assets/Financeiro/EMITIR_BOLETOS.pdf"
+        },
+        
+        {
+            "nome": "Lançamento Contas a Pagar",
+            "arquivo": "./assets/Financeiro/LanCamento_ContaS_Pagar.pdf"
+        },
+        
+        {
+            "nome": "Classificar Despesas de Caixa",
+            "arquivo": "./assets/Financeiro/CLASSIFICAR_DESPESAS.pdf"
+        }
+    ],
+
+    "manuaisFranquias":[
+        {
+            "nome": "Troca de Mercadoria",
+            "arquivo": ".manuais/assets/Estoque/Manual_Troca_Mercadorias.pdf"
+        },
+    
+        {
+            "nome": "Transferencia de Material",
+            "arquivo": ".manuais/assets/Estoque/Transferencia_Material.pdf"
+        },
+    
+        {
+            "nome": "Contagem Diária Gerente",
+            "arquivo": ".manuais/assets/Estoque/contagem_Diaria_GERENCIA.pdf"
+        },
+    
+        {
+            "nome": "Contagem Diária Vendedor",
+            "arquivo": ".manuais/assets/Estoque/contagem_Diaria_Vendedores.pdf"
+        },
+    
+        {
+            "nome": "Importar Nota Fiscal de Compra",
+            "arquivo": ".manuais/assets/Estoque/Importa_XML_NOTA.pdf"
+        },
+
+        {
+            "nome": "Baixa de Produtos Provador Brinde",
+            "arquivo": ".manuais/assets/Estoque/Manual_BAIXA_PRODUTO.pdf"
+        },
+    
+        {
+            "nome": "Procedimentos Para Contagem Ajuste de Estoque Geral",
+            "arquivo": ".manuais/assets/Estoque/Manual_Procedimentos_Ajuste_estoque.pdf"
+        },
+    
+        {
+            "nome": "Lançamento Contas a Pagar",
+            "arquivo": ".manuais/assets/Portal franquias/Manual Lançamento Contas a Pagar (PortalFranquias).pdf"},
+        {
+            "nome": "Pedido Delivery Cliente",
+            "arquivo": ".manuais/assets/Portal franquias/Manual Pedido Delivery Cliente (PortalFranquias).pdf"
+        },
+    
+        {
+            "nome": "Programa de Contagem de Inventário Diário",
+            "arquivo": "./assets/Portal franquias/Manual Programa de Contagem de Inventario Diario (PortalFranquias).pdf"},
+        {
+            "nome": "Programa de Contagem de Inventário Diário Gerencia",
+            "arquivo": "./assets/Portal franquias/Manual Programa de Contagem de Inventario Diario Gerencia (PortalFranquias).pdf"
+        },
+    
+        {
+            "nome": "Relatório de Caixa",
+            "arquivo": "./assets/Portal franquias/Manual Relatório de Caixa (PortalFranquias).pdf"
+        },
+    
+        {
+            "nome": "Relatório de Faturamento",
+            "arquivo": "./assets/Portal franquias/Manual Relatório de Faturamento (PortalFranquias).pdf"
+        },
+    
+        {
+            "nome": "Relatório de Vendas",
+            "arquivo": "./assets/Portal franquias/Manual Relatório de Vendas (PortalFranquias).pdf"
+        },
+    
+        {
+            "nome": "Relatorio Ficha de Kardex",
+            "arquivo": "./assets/Portal franquias/Manual Relatorio Ficha de Kardex (PortalFranquias).pdf"
+        }
+    ],
+
+    "manuaisPdv":[
+        {"nome": "Cadastro de Clientes",
+            "arquivo": "./assets/PDV/CADASTROCLIENTES.pdf"
+        },
+        
+        {
+            "nome": "Espelho Bematool",
+            "arquivo": "./assets/PDV/ESPELHO_BEMATOOL3.jpg"
+        },
+        
+        {
+            "nome": "Solução NFCe",
+            "arquivo": "./assets/PDV/NFCE_XML.pdf"
+        },
+        
+        {
+            "nome": "Solução SAT",
+            "arquivo": "./assets/PDV/sat_xml.pdf"
+        }
+    ]
+}
