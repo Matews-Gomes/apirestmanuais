@@ -48,7 +48,7 @@
         }
     ],
 
-    "manuaisCadastros": [
+    "Cadastros": [
         {
             "nome": "Cadastro de Metas",
             "arquivo": "./assets/Cadastros/cadastrometa.pdf"
