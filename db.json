@@ -48,7 +48,7 @@
         }
     ],
 
-    "cadastros": [
+    "manuaisCadastros": [
         {
             "nome": "Cadastro de Metas",
             "arquivo": "./assets/Cadastros/cadastrometa.pdf"
@@ -172,6 +172,11 @@
         
         {
             "nome": "Solução SAT",
+            "arquivo": "./assets/PDV/sat_xml.pdf"
+        },
+        
+        {
+            "nome": "Soluções SAT de testes",
             "arquivo": "./assets/PDV/sat_xml.pdf"
         }
     ],
