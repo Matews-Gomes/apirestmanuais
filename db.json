@@ -85,45 +85,45 @@
     "manuaisFranquias":[
         {
             "nome": "Troca de Mercadoria",
-            "arquivo": ".manuais/assets/Estoque/Manual_Troca_Mercadorias.pdf"
+            "arquivo": "./assets/Estoque/Manual_Troca_Mercadorias.pdf"
         },
     
         {
             "nome": "Transferencia de Material",
-            "arquivo": ".manuais/assets/Estoque/Transferencia_Material.pdf"
+            "arquivo": "./assets/Estoque/Transferencia_Material.pdf"
         },
     
         {
             "nome": "Contagem Diária Gerente",
-            "arquivo": ".manuais/assets/Estoque/contagem_Diaria_GERENCIA.pdf"
+            "arquivo": "./assets/Estoque/contagem_Diaria_GERENCIA.pdf"
         },
     
         {
             "nome": "Contagem Diária Vendedor",
-            "arquivo": ".manuais/assets/Estoque/contagem_Diaria_Vendedores.pdf"
+            "arquivo": "./assets/Estoque/contagem_Diaria_Vendedores.pdf"
         },
     
         {
             "nome": "Importar Nota Fiscal de Compra",
-            "arquivo": ".manuais/assets/Estoque/Importa_XML_NOTA.pdf"
+            "arquivo": "./assets/Estoque/Importa_XML_NOTA.pdf"
         },
 
         {
             "nome": "Baixa de Produtos Provador Brinde",
-            "arquivo": ".manuais/assets/Estoque/Manual_BAIXA_PRODUTO.pdf"
+            "arquivo": "./assets/Estoque/Manual_BAIXA_PRODUTO.pdf"
         },
     
         {
             "nome": "Procedimentos Para Contagem Ajuste de Estoque Geral",
-            "arquivo": ".manuais/assets/Estoque/Manual_Procedimentos_Ajuste_estoque.pdf"
+            "arquivo": "./assets/Estoque/Manual_Procedimentos_Ajuste_estoque.pdf"
         },
     
         {
             "nome": "Lançamento Contas a Pagar",
-            "arquivo": ".manuais/assets/Portal franquias/Manual Lançamento Contas a Pagar (PortalFranquias).pdf"},
+            "arquivo": "./assets/Portal franquias/Manual Lançamento Contas a Pagar (PortalFranquias).pdf"},
         {
             "nome": "Pedido Delivery Cliente",
-            "arquivo": ".manuais/assets/Portal franquias/Manual Pedido Delivery Cliente (PortalFranquias).pdf"
+            "arquivo": "./assets/Portal franquias/Manual Pedido Delivery Cliente (PortalFranquias).pdf"
         },
     
         {
