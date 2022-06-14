@@ -180,68 +180,68 @@
         {
             "titulo": "Sistema de Cadastro de Clientes",
             "urlVideo": "https://mega.nz/embed/xJMxhJ6A#ZYbPxWe-PzhLrH97n0QuuzIfwUAve9Ut1QfHLWtH038",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Cadastrando os clientes..."
         },
         
         {
             "titulo": "Menu de Ajuda",
             "urlVideo": "https://mega.nz/embed/9ZtnmBzZ#DfFaAtJzyXl-Efh4CzZH8OVgOzP_Im7RJrzjLGpVZl8",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Como utilizar o menu de ajuda..."
         },
         
         {
             "titulo": "Alterar Cadastro",
             "urlVideo": "https://mega.nz/embed/JE8wgLxY#rRa5oHrT_RvFJzeqn9RV1yhkMq0iTbm-dP8hln9l_Cc",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como alterar o cadastro..."
         },
 
         {
             "titulo": "Alterar Cliente Cupom",
             "urlVideo": "https://mega.nz/embed/YFtGASaK#2ViWQQM3ie-Nb50hnBSKbOHJBUEfxl5TnA6wU2PSsYo",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Alterando cliente do cupom..."
         },
         
         {
             "titulo": "Inclusão e Remoção de Vendedor",
             "urlVideo": "https://mega.nz/embed/IBdD2bzR#5cUVUd-UDtsHjUFdgKD0uvnkXlsf1auI-qnMXGB6bFE",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Remover e incluir vendedores..."
         },
         
         {
             "titulo": "Baixar XML Autorizado(Solução Fiscal NFCe)",
             "urlVideo": "https://mega.nz/embed/xAciFLCS#hm7GrCEFPIuyQHLPVu39qH628kSgkb-AnLcIt1Pntbg",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Baixando XML de Autorização..."
         },
         
         
         {
             "titulo": "Gerar XML de Cancelamento(Solução Fiscal NFCe)",
             "urlVideo": "https://mega.nz/embed/YQs3gaBY#gc90Hf07wj6OXkhxgcwnXWTfgLatCJqeIzPh4oDuoNc",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como gerar XML de cancelamento..."
         },
         
         {
             "titulo": "Limpar Duplicidade F10(Solução Fiscal NFCe)",
             "urlVideo": "https://mega.nz/embed/xIlEiRwZ#_lKeVzI-FOG8jDJLPR7v4Pqbvb-ZfIffBCQscuQmTIA",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Limpeza de F10..."
         },
         
         {
             "titulo": "Inutilizar Cupom(Solução Fiscal NFCe)",
             "urlVideo": "https://mega.nz/embed/tBcSkLDQ#7lj8iEK1kHno41ayIQHTcvZUwaxz-lWVVsRwsWN4imU",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Inutilizando cupom fiscal..."
         },
 
         {
             "titulo": "Reimpresão de Cupom",
             "urlVideo": "https://mega.nz/embed/hVNghZSR#-o7Gpn73Ls-1QaboFW30wx-zUMzFivyMXimZfSBcMGI",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Reimprimindo o cupom..."
         },
         
         {
             "titulo": "Sincronização de Cadastro",
             "urlVideo": "https://mega.nz/embed/Ud0UVKAC#bJIGJhbI5jjKcH_cBfVuggVB23nrW_u6lKFDDU1Uynk",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Sincronizar cadastros..."
         }
     ],
 
@@ -249,25 +249,25 @@
         {
             "titulo": "Converter Cupom em NFe",
             "urlVideo": "https://mega.nz/embed/9c8HWJAT#am-qbbXSlYhGsN3-c-WWzOWecNvBymK5_9RD3YOb1UY",
-            "descricao": "..."
+            "descricao": "Convertendo cupom em nota NFe..."
         },
         
         {
             "titulo": "Nota Fiscal(NFe) Por Pedido de Venda",
             "urlVideo": "https://mega.nz/embed/hJ0h0bZb#YJbXVyxj0qcgKLd-MljpRoLGhWxh9jpWHFcInvx87ME",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Gerar nota fiscal por pedido de venda..."
         },
         
         {
             "titulo": "Nota Fiscal(NFe) de Devolução de Um Cupom",
             "urlVideo": "https://mega.nz/embed/lBMFHQiR#DR9w-jJPkTd5W5Wh4aGUTILyZFYc_K6obosZJClMcX8",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Criando nota fiscal devoluçao cliente..."
         },
         
         {
             "titulo": "Nota Fiscal(NFe) de Devolução Fargos(Avatim)",
             "urlVideo": "https://mega.nz/embed/lFFGQLjC#JrIi3bOPb0MSBAYWoSv0BUPLPGz3MTPX_Ws43L117-w",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Criando nota fiscal de devolucao para FARGOS..."
         }
     ],
 
@@ -275,31 +275,31 @@
         {
             "titulo": "Baixa de Produtos Consulta",
             "urlVideo": "https://mega.nz/embed/pdlWQIJK#0J4F1R41mbIpk1O9C7qQpGOlEVZrzR9ugV5EQza2kLA",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Como realizar a baixa de produtos..."
         },
         
         {
             "titulo": "Baixa de Produtos Movimentações",
             "urlVideo": "https://mega.nz/embed/AVlFiIjI#vgkX4OGcq0yfS3wdRpUJAiiUgwvHI2Cm9CX5npe5w4k",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Baixa de por mivimentações..."
         },
         
         {
             "titulo": "Consulta Download Planilhas",
             "urlVideo": "https://mega.nz/embed/5UFAQB6J#LJYblfoQjgdVWBpWrqiscGiulGS-ZA7vaEg1tuAMI74",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Realizando download de planilhas..."
         },
         
         {
             "titulo": "Contagem de Inventário diária Consultas",
             "urlVideo": "https://mega.nz/embed/gVcjARia#mkyXXspoizCOCjdP8MYeURxSZum0WCfduExB2tUrtXM",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como contar inventário diário..."
         },
         
         {
             "titulo": "Troca de Mercadorias Gerência Consultas",
             "urlVideo": "https://mega.nz/embed/ZFVnVYYQ#7qQ-HE7kuqCj2FmAmE_n7YevkRmMpx8Xj8FbUopKj_M",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Trocando mercadorias..."
         }
     ],
 
@@ -307,43 +307,43 @@
         {
             "titulo": "Abertura de Sistema",
             "urlVideo": "https://mega.nz/embed/4BMiUDLJ#0I4HyoOFrkX6ihRmLFYue_YRsv30EJpYjswmf3gGSsc",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Abrindo o sistema de vendas..."
         },
         
         {
             "titulo": "Tela de Vendas",
             "urlVideo": "https://mega.nz/embed/kM1TXITQ#EqMGEaOtJWWHJOKp94asz2eEirm_GZg6jsLj8k-lFHE",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Tela de vendas PDV..."
         },
         
         {
             "titulo": "Formas de Pagamento",
             "urlVideo": "https://mega.nz/embed/gB9V3BDK#14kBkX-6GCUSqZgDXZqgkCg4c86ajJGEctvd7rD8ddw",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Escolhendo formas de pagamento..."
         },
         
         {
             "titulo": "Simulação de Vendas",
             "urlVideo": "https://mega.nz/embed/tYEgkTiT#ttxNLHrmAizlxoWXUdBoNIZ6R6w3MXjKcJVzyFj9zxc",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Simulando uma venda..."
         },
         
         {
             "titulo": "Troca de Mercadorias",
             "urlVideo": "https://mega.nz/embed/UFcUgapD#86xTU6iSTV6sitDNjSOigG1I9BNInZ5LEfm1Qa98I7I",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Trocando mercadorias..."
         },
         
         {
             "titulo": "Tela de Pendençias NFCe(F10)",
             "urlVideo": "https://mega.nz/embed/hRM1kAjI#tTS1uC8Iq9Z3rz9cX9Yqa8IlwievUUF7KauSpJkDs6E",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Consultando pendençias no F10..."
         },
         
         {
             "titulo": "Cancelamento de Cupom",
             "urlVideo": "https://mega.nz/embed/ZMsDGICL#ytuscV8jZ6n5kd0-EqACtVk7HDuhAMWhH80GdZZ19lc",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como cancelar um cupom..."
         }
     ],
 
@@ -351,91 +351,91 @@
         {
             "titulo": "Cadastro de Clientes",
             "urlVideo": "https://mega.nz/embed/hA1QQA4T#YfjwhUqSVXxSZUcum37OsrCWiw4M2cLh51IfMP4Mo6M",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Cadastrando um cliente..."
         },
         
         {
             "titulo": "Contagem Diária",
             "urlVideo": "https://mega.nz/embed/kckViYbZ#dY9iifdsHXazhfRuy98bW-CLr5B4yZ_Q4KfVAnJjCgI",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Como realizar a contagem diária..."
         },
         
         {
             "titulo": "Consultas - Clientes",
             "urlVideo": "https://mega.nz/embed/5UEWjQSB#86tMjvGVtSvbI3gS-tnKtxdGEI1n_EWA7fLiWjyJ8Us",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como consultar clientes..."
         },
 
         {
             "titulo": "Download Planilhas",
             "urlVideo": "https://mega.nz/embed/IU9mhCga#AXekPc3Aa4pK6yMml4ZdeoamgDxNNnjz4rKMGNd-vWI",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Download de planilhas..."
         },
         
         {
             "titulo": "Faturamento",
             "urlVideo": "https://mega.nz/embed/NFUDlC4D#4mYJJOtKW58n4Ohn1F-Gah9dvWmXenPYRKbvvc1Ty24",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Consultando faturamento..."
         },
         
         {
             "titulo": "Faturamento Por Clientes",
             "urlVideo": "https://mega.nz/embed/FMVTHDzS#MVEBo2cAkNZO85f-yztP8PPQ_R35dQLCx11cONyiGuc",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como consultar faturamento por cliente..."
         },
 
         {
             "titulo": "Faturamento Por Produto",
             "urlVideo": "https://mega.nz/embed/kc9GDbQR#RgzvXJn6Nf5pPXoVFxdx4ubrlEXDiXEOd2W88WN1_w4",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Consultando faturamento por produto..."
         },
         
         {
             "titulo": "Consultas - Produtos",
             "urlVideo": "https://mega.nz/embed/8YtFnSbR#pEr3261SWDHdCu-A5EluyNqOu1DISfnuCMscm4gAePA",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Consultando os produtos..."
         },
         
         {
             "titulo": "Consultas - Tabela de Preço",
             "urlVideo": "https://mega.nz/embed/JccBHbKb#poCx9lQpNrrA7Ucbw7xKIqdvyEjfLN9DE0I_GFtL5To",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Consutando tabela de preço..."
         },
 
         {
             "titulo": "Consultas - Troca de Mercadorias",
             "urlVideo": "https://mega.nz/embed/kY0FCSja#s5n7M2aHJrmIEzoK6TJMOIw6EBeGaZSuydifAenub_o",
-            "descricao": "Geração do arquivo sintegra..."
+            "descricao": "Consutando as trocas de mercadorias..."
         },
         
         {
             "titulo": "Consultas - Trocas Realizadas",
             "urlVideo": "https://mega.nz/embed/RN8n3TyA#0_CoSKjnl05pN_54u8v5nCDHGboD14AqADOt5Nhxigk",
-            "descricao": "Como atualizar o certificado digital..."
+            "descricao": "Como consultar as trocas realizadas..."
         },
         
         {
             "titulo": "Relatório de Caixa",
             "urlVideo": "https://mega.nz/embed/0I93EC5S#Px7XR5qRLjwC0TXGIpEScIbpfr7AlAme4bdVSZim5fY",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Realizando relatórios de caixa..."
         },
         
         {
             "titulo": "Relatório de Faturamento",
             "urlVideo": "https://mega.nz/embed/kUEWAC6B#IvzZN2j27MxdtsfEy_g_CRVNv3wc7sQoOi8m6rRc1WA",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como realizar o relatório de faturamento..."
         },
         
         {
             "titulo": "Relatório de Vendas",
             "urlVideo": "https://mega.nz/embed/0EtwWL5C#P2b5hwDxRwe0DqvvlDLpf-3JiIDDpTd32Dl5JWP8gF0",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Consultando o relatótio de vendas..."
         },
         
         {
-            "titulo": "Relatório de Vendas Liquida",
+            "titulo": "Relatório de Vendas Líquida",
             "urlVideo": "https://mega.nz/embed/BQ1TVCaL#jnoMINAR_oaA_8wgkt3j39j4ZyF_JT-jJAg8MJMnI0I",
-            "descricao": "Como baixar arquivos do portal..."
+            "descricao": "Como gerar o relatório de vendas líquidas.."
         }
     ],
 
