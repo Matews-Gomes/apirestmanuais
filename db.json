@@ -347,97 +347,306 @@
         }
     ],
 
-    "videosPortalFranquias":[
+     "videosPortalFranquiasConsultas":[
         {
-            "titulo": "Cadastro de Clientes",
-            "urlVideo": "https://mega.nz/embed/hA1QQA4T#YfjwhUqSVXxSZUcum37OsrCWiw4M2cLh51IfMP4Mo6M",
-            "descricao": "Cadastrando um cliente..."
+            "titulo": "Consultas - Inventario",
+            "urlVideo": "https://mega.nz/file/ZFESQCYJ#AkEHoEl0kj1FTmTEGf36ZPzhH0dI6kgGO3UtOuKgOOM",
+            "descricao": "Consultando o inventário..."
         },
-        
+
         {
-            "titulo": "Contagem Diária",
-            "urlVideo": "https://mega.nz/embed/kckViYbZ#dY9iifdsHXazhfRuy98bW-CLr5B4yZ_Q4KfVAnJjCgI",
-            "descricao": "Como realizar a contagem diária..."
+            "titulo": "Consultas - Classificar despesas do caixa com exclusao",
+            "urlVideo": "https://mega.nz/file/0E1BGC4Z#2fAV4ciMozByO3lKOGgw2jMkZBPO2r-frWUAlUv-MyM",
+            "descricao": "Consulta classificação de despesas..."
         },
-        
+
         {
             "titulo": "Consultas - Clientes",
-            "urlVideo": "https://mega.nz/embed/5UEWjQSB#86tMjvGVtSvbI3gS-tnKtxdGEI1n_EWA7fLiWjyJ8Us",
-            "descricao": "Como consultar clientes..."
+            "urlVideo": "https://mega.nz/file/1ElUySbQ#HiIg6GjGFdxIDa_zSIDasxNq9pZjy0Z1tQcgDDaikMk",
+            "descricao": "Consultando os clientes..."
         },
 
         {
-            "titulo": "Download Planilhas",
-            "urlVideo": "https://mega.nz/embed/IU9mhCga#AXekPc3Aa4pK6yMml4ZdeoamgDxNNnjz4rKMGNd-vWI",
-            "descricao": "Download de planilhas..."
-        },
-        
-        {
-            "titulo": "Faturamento",
-            "urlVideo": "https://mega.nz/embed/NFUDlC4D#4mYJJOtKW58n4Ohn1F-Gah9dvWmXenPYRKbvvc1Ty24",
-            "descricao": "Consultando faturamento..."
-        },
-        
-        {
-            "titulo": "Faturamento Por Clientes",
-            "urlVideo": "https://mega.nz/embed/FMVTHDzS#MVEBo2cAkNZO85f-yztP8PPQ_R35dQLCx11cONyiGuc",
-            "descricao": "Como consultar faturamento por cliente..."
+            "titulo": "Consultas - Contagens Realizadas",
+            "urlVideo": "https://mega.nz/file/cNUCEIRD#IYft4I17b5Qlgta_Oomr6cWx8Zb41QlCsbxa2c_x7Ng",
+            "descricao": "Consulta de contagens realizadas..."
         },
 
         {
-            "titulo": "Faturamento Por Produto",
-            "urlVideo": "https://mega.nz/embed/kc9GDbQR#RgzvXJn6Nf5pPXoVFxdx4ubrlEXDiXEOd2W88WN1_w4",
-            "descricao": "Consultando faturamento por produto..."
+            "titulo": "Consultas - Contagem de Invetário Diaria",
+            "urlVideo": "https://mega.nz/file/dVFHGJ7T#mkyXXspoizCOCjdP8MYeURxSZum0WCfduExB2tUrtXM",
+            "descricao": "Consultando as contagens do inventario diarias..."
+        },
+
+        {
+            "titulo": "Consultas - Controle de Caixa Gerência",
+            "urlVideo": "https://mega.nz/file/1UVhFDoA#SkxR6R0v3t0M04yO0phqbaJdCPp9j-8YNKz0Mzsadz8",
+            "descricao": "Consulta de controle de caixa gerência..."
+        },
+
+        {
+            "titulo": "Consultas - Download Planilha",
+            "urlVideo": "https://mega.nz/file/xYFBAD6S#AXekPc3Aa4pK6yMml4ZdeoamgDxNNnjz4rKMGNd-vWI",
+            "descricao": "Consultando download de planilha..."
         },
         
+
+        {
+            "titulo": "Consultas - Faturamento CFOP" ,           
+            "urlVideo": "https://mega.nz/file/wF0gVSBQ#zaOO34_E9l7Hl2rY7r0FoSvxBXEVyqkT-oq-BJ3YaLo",
+            "descricao": "Consultando faturamento CFOP..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento CFOP Produtos",
+            "urlVideo": "https://mega.nz/file/NMVFwYYY#6O6-4gu3ugm6KK_EY4RJ04OwHrOe5MKIreCKR3RcwQI",
+            "descricao": "Consultando Faturamento CFOP de produtos..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento CST",
+            "urlVideo": "https://mega.nz/file/VVNliY6Y#FFfYviAveCtOyCfrwMjHR4wbdCnHbpyuEWwh9joeaKQ",
+            "descricao": "Consultando faturamento CST..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento por NCM",
+            "urlVideo": "https://mega.nz/file/NU83UBRB#CtYR6gfyIFR-SuHD_NYNrxv-qbFS0BYi3rIG1Ndfj1U",
+            "descricao": "Consultando faturamento por NCM"
+        },
+
+        {
+            "titulo": "Consultas - Faturamento Dia",
+            "urlVideo": "https://mega.nz/file/JUEhjDST#nsls3xHxczdpZySNN1ayVYCQec70UhNnIhRCw-9KF0A",
+            "descricao": "Consulta faturamento diário..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento Produtos Monofasicos",
+            "urlVideo": "https://mega.nz/file/0NUBhQYA#_1B5nZF7DJDfCZHNCEApcLOiOaSyfpBvT-FXc8DEsl0",
+            "descricao": "Consulta faturamento de produtos monofasicos..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento por Clientes",
+            "urlVideo": "https://mega.nz/file/0Z9Wgbib#MVEBo2cAkNZO85f-yztP8PPQ_R35dQLCx11cONyiGuc",
+            "descricao": "Consultando faturamento por clientes..."
+        },
+
+        {
+            "titulo": "Consultas - Faturamento por Produto - Visao Mensal",
+            "urlVideo": "https://mega.nz/file/IU9G1BBJ#RgzvXJn6Nf5pPXoVFxdx4ubrlEXDiXEOd2W88WN1_w4",
+            "descricao": "Consultando faturamento por produto - Visao Mensal..."
+        },
+
+        {
+            "titulo": "Consultas - Fornecedores",
+            "urlVideo": "https://mega.nz/file/8J1XDI5S#uco-GfzErNIFdPZ4iML54qjxJIPxNlkHQd1uK2GO_Pw",
+            "descricao": "Consultando os fornecedores..."
+        },
+
+        {
+            "titulo": "Consultas - Movimentacoes cartao presente",
+            "urlVideo": "https://mega.nz/file/pZlEnRwY#XYujzbWy5jPIh6KDHRCfEaVfGTctucs7tc7lk3hz8hY",
+            "descricao": "Consultando as movimentacoes do cartao presente..."
+        },
+
+        {
+            "titulo": "Consultas - Pedidos de Venda",
+            "urlVideo": "https://mega.nz/file/ABE2TbDB#tpdDsQ679aWiVurPbp1Ylu0Qo8pAc_Qd_JVhtkOokgA",
+            "descricao": "Consultando os pedidos de venda"
+        },
+
         {
             "titulo": "Consultas - Produtos",
-            "urlVideo": "https://mega.nz/embed/8YtFnSbR#pEr3261SWDHdCu-A5EluyNqOu1DISfnuCMscm4gAePA",
-            "descricao": "Consultando os produtos..."
+            "urlVideo": "https://mega.nz/file/EQcFwaDK#pEr3261SWDHdCu-A5EluyNqOu1DISfnuCMscm4gAePA",
+            "descricao": "Consultando os produtos.."
         },
-        
+
+        {
+            "titulo": "Consultas - Recepção de Material - Nota fiscal de entrada",
+            "urlVideo": "https://mega.nz/file/sc8URbYZ#jLxDEB2HhX80nYq6jjRJUa_vEA-mDATwEdtxIEUJlZI",
+            "descricao": "Consultando a recepção de material.."
+        },
+
         {
             "titulo": "Consultas - Tabela de Preço",
             "urlVideo": "https://mega.nz/embed/JccBHbKb#poCx9lQpNrrA7Ucbw7xKIqdvyEjfLN9DE0I_GFtL5To",
-            "descricao": "Consultando tabela de preço..."
+            "descricao": "Consultando a tabela de preço..."
         },
 
         {
             "titulo": "Consultas - Troca de Mercadorias",
             "urlVideo": "https://mega.nz/embed/kY0FCSja#s5n7M2aHJrmIEzoK6TJMOIw6EBeGaZSuydifAenub_o",
-            "descricao": "Consultando as trocas de mercadorias..."
+            "descricao": "Consultando mercadorias trocadas..."
         },
-        
+
         {
             "titulo": "Consultas - Trocas Realizadas",
             "urlVideo": "https://mega.nz/embed/RN8n3TyA#0_CoSKjnl05pN_54u8v5nCDHGboD14AqADOt5Nhxigk",
-            "descricao": "Como consultar as trocas realizadas..."
+            "descricao": "Consultado as trocas realizadas..."
         },
-        
+
         {
-            "titulo": "Relatório de Caixa",
-            "urlVideo": "https://mega.nz/embed/0I93EC5S#Px7XR5qRLjwC0TXGIpEScIbpfr7AlAme4bdVSZim5fY",
-            "descricao": "Realizando relatórios de caixa..."
+            "titulo": "Consultas - Transferencia de Material",
+            "urlVideo": "https://mega.nz/file/lV8BDYyT#jWBaSX0pTkQaG8meWAyzZVX26ESycrK2acPEFR3Bi10",
+            "descricao": "Consulta de transferêcia de material..."
+        },  
+
+        {
+            "titulo": "Consultas - Troca de Mercadoria Gerência",
+            "urlVideo": "https://mega.nz/file/sVd3xKJB#7qQ-HE7kuqCj2FmAmE_n7YevkRmMpx8Xj8FbUopKj_M",
+            "descricao": "Consultando troca de mercadoria gerência..."
         },
-        
+
         {
-            "titulo": "Relatório de Faturamento",
-            "urlVideo": "https://mega.nz/embed/kUEWAC6B#IvzZN2j27MxdtsfEy_g_CRVNv3wc7sQoOi8m6rRc1WA",
-            "descricao": "Como realizar o relatório de faturamento..."
+            "titulo": "Consultas - Vincular Nota",
+            "urlVideo": "https://mega.nz/file/5VN01ShQ#ZpM9_bqiAMlE-kUb3ikR2uUUruf4OcXY970VgCUzAQw",
+            "descricao": "Consultando vinculação de nota..."
         },
-        
+
         {
-            "titulo": "Relatório de Vendas",
-            "urlVideo": "https://mega.nz/embed/0EtwWL5C#P2b5hwDxRwe0DqvvlDLpf-3JiIDDpTd32Dl5JWP8gF0",
-            "descricao": "Consultando o relatótio de vendas..."
-        },
-        
-        {
-            "titulo": "Relatório de Vendas Líquida",
-            "urlVideo": "https://mega.nz/embed/BQ1TVCaL#jnoMINAR_oaA_8wgkt3j39j4ZyF_JT-jJAg8MJMnI0I",
-            "descricao": "Como gerar o relatório de vendas líquidas.."
+            "titulo": "Consultas - Vincular Nota de Entrada",
+            "urlVideo": "https://mega.nz/file/NEtlTDjL#EEVXGvwOFWyushYE_uMzO8E8ZGVlOL_XBbBOZGXsU-E",
+            "descricao": "Consultando vinculação de nota de entrada..."
         }
     ],
+
+    "videosPortalFranquiasRelatorios":[
+
+        {
+            "titulo": "Relatórios - Ficha de Kardex",
+            "urlVideo": "https://mega.nz/file/1BFWQSKI#uvVxLAAg5Q29_qPjVNG9Ld5K4DUzPJQ8rfO-P0u_ORw",
+            "descricao": "Procedimento de relatórios de ficha kardex..."
+        },
+        
+        {
+            "titulo": "Relatórios - Inventario de Estoque",
+            "urlVideo": "https://mega.nz/file/pEV1XDBT#_dZfybe8iWTKOlKfqAOw7l6YteaX9Mx7ZFzjhrKnYnQ",
+            "descricao": "Emitindo relatórios de inventário de estoque..."
+        },
+        
+
+        {
+            "titulo": "Relatórios - Caixa",
+            "urlVideo": "https://mega.nz/file/ARUFRAJD#Px7XR5qRLjwC0TXGIpEScIbpfr7AlAme4bdVSZim5fY",
+            "descricao": "Relatórios de caixa..."
+        },
+        
+        {
+            "titulo": "Relatórios - Faturamento",
+            "urlVideo": "https://mega.nz/file/1ElkHCbI#IvzZN2j27MxdtsfEy_g_CRVNv3wc7sQoOi8m6rRc1WA",
+            "descricao": "Relatórios de faturameto..."
+        },
+        
+        {
+            "titulo": "Relatórios - Vendas",
+            "urlVideo": "https://mega.nz/file/5A0xiDzR#P2b5hwDxRwe0DqvvlDLpf-3JiIDDpTd32Dl5JWP8gF0",
+            "descricao": "Relatórios de vendas..."
+        },
+        
+        {
+            "titulo": "Relatórios - Vendas Líquida",
+            "urlVideo": "https://mega.nz/embed/BQ1TVCaL#jnoMINAR_oaA_8wgkt3j39j4ZyF_JT-jJAg8MJMnI0I",
+            "descricao": "Relatórios de vendas líquida..."
+        },
+
+        {
+            "titulo": "Relatórios - Fechamento mensal",
+            "urlVideo": "https://mega.nz/file/RUkggJQQ#pB91YJfu_Ci0xr0I6I5pvCVmzN1xUaxjUkKazJg7m2E",
+            "descricao": "Relatórios de fechamento mensal..."
+        },
+
+        {
+            "titulo": "Relatórios - Posição de caixa",
+            "urlVideo": "https://mega.nz/file/Mc0AQK6J#WMeCXIpBy-cZ0_LJcfKjQmZktXAvzCI1QDYqirIcPRE",
+            "descricao": "Relatórios de posição de caixa..."
+        },
+
+        {
+            "titulo": "Relatórios - Recepção de material",
+            "urlVideo": "https://mega.nz/file/4UN1EYhC#JV3KIRa4R-_sAzH5yCDvWJlfVgEaU_JqAz_W_qzzCVk",
+            "descricao": "Relatórios de recepção de material..."
+        },
+
+        {
+            "titulo": "Relatórios - Saldo de estoque", 
+            "urlVideo": "https://mega.nz/file/RdcT3axK#9z5BxSEMflNFu9y5hhG_zSbN2fflrBq-W0B6iOzf7fI", 
+            "descricao": "Relatórios de saldo de estoque..."
+        }
+
+    ],
+
+    "videosPortalfranquiasMovimentacoes":[
+
+        {
+            
+            "titulo": "Movimentações - Baixa de Produtos",
+            "urlVideo": "https://mega.nz/file/1M0WGJrI#4VG-ZicnwTZky1b9cWPAbhpVQeGFZGSgksI_ztNL6gs",
+            "descricao": "Movimentações de baixa de produtos..."
+        },
+
+        {           
+            "titulo": "Movimentações - Contagem de inventario Adicional",
+            "urlVideo": "https://mega.nz/file/FIkTULSZ#eCiv4urcB409gCINO8-dflkQ6vHyaQth02Ej0UP16e0",
+            "descricao": "Movimentações de contagem de inventario adicional..."
+        },
+
+        {
+            "titulo": "Movimentações - Controle de Caixa - Lançar Movimento",
+            "urlVideo": "https://mega.nz/file/NM02wbDS#WPOrgYnchzrdeEODGrDTM7n087EIj80Qu7BGy4GRaZE",
+            "descricao": "Movimentações de controle de caixa - lançar movimento..."
+        },
+
+        {
+            "titulo": "Movimentações - Delivery definir valor de frete",
+            "urlVideo": "https://mega.nz/file/pFMUjBxI#TsoTkYORgZts9c9gvCYW8_RphhH56YfgSh_Ul64hQaM",
+            "descricao": "Movimentações delivery definindo o valor do frete..."
+        },
+
+        {
+            "titulo": "Movimentações - Faturamento",
+            "urlVideo": "https://mega.nz/file/FAkECCIS#wJf8OoSht-B_xmvcx2Fl4oVMiN7bKjB8pF28sS__nlM",
+            "descricao": "Movimentações de faturamento..."
+        },
+
+        {
+            "titulo": "Movimentações - Fornecedores",
+            "urlVideo": "https://mega.nz/file/AZtSgChK#v18s1sV6mHfwk7GZf1iOZ_rS15KfctaOyXIi69qGpoc",
+            "descricao": "Movimentações de fornecedores..."
+        },
+
+        {
+            "titulo": "Movimentações - Importar XML NFE Entrada",
+            "urlVideo": "https://mega.nz/file/pM0RlDoQ#VJ26oUmwukE1gaZkjq5bIFmtd_kJlC3zhJZYjEpbpv4",
+            "descricao": "Movimentações importando XML NFE entrada..."
+        },
+
+        {
+            "titulo": "Movimentações - Notas de baixa de produto",
+            "urlVideo": "https://mega.nz/file/MI13SZRI#lx-erbcAFK_ZGtduuNTUhphXfmpPJcoS0Wjgz-ZD7qg",
+            "descricao": "Movimentações de notas de baixa de produto..."
+        },
+
+        {
+            "titulo": "Movimentações - Nota de troca",
+            "urlVideo": "https://mega.nz/file/NVlGQQrD#-8YInGWMDTfLWHYakM0sjhcztncsFH8vy8GJ86nr2GY",
+            "descricao": "Movimentações de nota de troca..."
+        },
+
+        {
+            "titulo": "Movimentações - Pedido de venda",
+            "urlVideo": "https://mega.nz/file/4FEEjILK#sDRp3NSpMJakYriWLymviKHoBDc9X18MNfqKu4xd8Os",
+            "descricao": "Movimentações de pedido de venda..."
+        },
+
+        {
+            "titulo": "Movimentações - Transferencia de Material",
+            "urlVideo": "https://mega.nz/file/oFN0VR5Q#UlY6jHGUtcgED2sGAx2Ab09PLXm_8es0dJzSXd5rScg",
+            "descricao": "Movimentações de transferência de material..."
+        }
+    ],
+
 
     "videosPortalNFe":[
         {
