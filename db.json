@@ -666,5 +666,97 @@
             "urlVideo": "https://mega.nz/embed/cQVwCLxA#bPVNn5qaIR9ffpxWJPMzuvpcLKGtBh_Ul3YDO9_v_hM",
             "descricao": "Como baixar arquivos do portal..."
         }
+    ],
+    
+    "videosPortalFranquias":[
+        {
+            "titulo": "Cadastro de Clientes",
+            "urlVideo": "https://mega.nz/embed/hA1QQA4T#YfjwhUqSVXxSZUcum37OsrCWiw4M2cLh51IfMP4Mo6M",
+            "descricao": "Cadastrando um cliente..."
+        },
+        
+        {
+            "titulo": "Contagem Diária",
+            "urlVideo": "https://mega.nz/embed/kckViYbZ#dY9iifdsHXazhfRuy98bW-CLr5B4yZ_Q4KfVAnJjCgI",
+            "descricao": "Como realizar a contagem diária..."
+        },
+        
+        {
+            "titulo": "Consultas - Clientes",
+            "urlVideo": "https://mega.nz/embed/5UEWjQSB#86tMjvGVtSvbI3gS-tnKtxdGEI1n_EWA7fLiWjyJ8Us",
+            "descricao": "Como consultar clientes..."
+        },
+
+        {
+            "titulo": "Download Planilhas",
+            "urlVideo": "https://mega.nz/embed/IU9mhCga#AXekPc3Aa4pK6yMml4ZdeoamgDxNNnjz4rKMGNd-vWI",
+            "descricao": "Download de planilhas..."
+        },
+        
+        {
+            "titulo": "Faturamento",
+            "urlVideo": "https://mega.nz/embed/NFUDlC4D#4mYJJOtKW58n4Ohn1F-Gah9dvWmXenPYRKbvvc1Ty24",
+            "descricao": "Consultando faturamento..."
+        },
+        
+        {
+            "titulo": "Faturamento Por Clientes",
+            "urlVideo": "https://mega.nz/embed/FMVTHDzS#MVEBo2cAkNZO85f-yztP8PPQ_R35dQLCx11cONyiGuc",
+            "descricao": "Como consultar faturamento por cliente..."
+        },
+
+        {
+            "titulo": "Faturamento Por Produto",
+            "urlVideo": "https://mega.nz/embed/kc9GDbQR#RgzvXJn6Nf5pPXoVFxdx4ubrlEXDiXEOd2W88WN1_w4",
+            "descricao": "Consultando faturamento por produto..."
+        },
+        
+        {
+            "titulo": "Consultas - Produtos",
+            "urlVideo": "https://mega.nz/embed/8YtFnSbR#pEr3261SWDHdCu-A5EluyNqOu1DISfnuCMscm4gAePA",
+            "descricao": "Consultando os produtos..."
+        },
+        
+        {
+            "titulo": "Consultas - Tabela de Preço",
+            "urlVideo": "https://mega.nz/embed/JccBHbKb#poCx9lQpNrrA7Ucbw7xKIqdvyEjfLN9DE0I_GFtL5To",
+            "descricao": "Consultando tabela de preço..."
+        },
+
+        {
+            "titulo": "Consultas - Troca de Mercadorias",
+            "urlVideo": "https://mega.nz/embed/kY0FCSja#s5n7M2aHJrmIEzoK6TJMOIw6EBeGaZSuydifAenub_o",
+            "descricao": "Consultando as trocas de mercadorias..."
+        },
+        
+        {
+            "titulo": "Consultas - Trocas Realizadas",
+            "urlVideo": "https://mega.nz/embed/RN8n3TyA#0_CoSKjnl05pN_54u8v5nCDHGboD14AqADOt5Nhxigk",
+            "descricao": "Como consultar as trocas realizadas..."
+        },
+        
+        {
+            "titulo": "Relatório de Caixa",
+            "urlVideo": "https://mega.nz/embed/0I93EC5S#Px7XR5qRLjwC0TXGIpEScIbpfr7AlAme4bdVSZim5fY",
+            "descricao": "Realizando relatórios de caixa..."
+        },
+        
+        {
+            "titulo": "Relatório de Faturamento",
+            "urlVideo": "https://mega.nz/embed/kUEWAC6B#IvzZN2j27MxdtsfEy_g_CRVNv3wc7sQoOi8m6rRc1WA",
+            "descricao": "Como realizar o relatório de faturamento..."
+        },
+        
+        {
+            "titulo": "Relatório de Vendas",
+            "urlVideo": "https://mega.nz/embed/0EtwWL5C#P2b5hwDxRwe0DqvvlDLpf-3JiIDDpTd32Dl5JWP8gF0",
+            "descricao": "Consultando o relatótio de vendas..."
+        },
+        
+        {
+            "titulo": "Relatório de Vendas Líquida",
+            "urlVideo": "https://mega.nz/embed/BQ1TVCaL#jnoMINAR_oaA_8wgkt3j39j4ZyF_JT-jJAg8MJMnI0I",
+            "descricao": "Como gerar o relatório de vendas líquidas.."
+        }
     ]
 }
